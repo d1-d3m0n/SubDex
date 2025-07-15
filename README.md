@@ -38,7 +38,7 @@ Install my-project with npm
 
 ## Screenshots
 
-![App Screenshot](screenshot.jpg)
+![App Screenshot](screenshot.png)
 
 
 
